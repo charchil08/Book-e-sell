@@ -1,0 +1,116 @@
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csprojAssemblyReference.cache
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\Self Study\Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csprojAssemblyReference.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\Application\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\Application\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\Application\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Application\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\Application\BookStore.API\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\Application\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\Application\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\ref\BookStore.Models.dll
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+D:\6 SEM Project 2022\.net+Postgres-Vikram\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\refint\BookStore.Models.dll
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+C:\Users\ercha\Downloads\BookStore (2)\BookStore (2)\BookStore\BookStore.API\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.deps.json
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.json
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.runtimeconfig.dev.json
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.dll
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\bin\Debug\net5.0\BookStore.Models.pdb
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.AssemblyInfo.cs
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.dll
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\refint\BookStore.Models.dll
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.pdb
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\BookStore.Models.genruntimeconfig.cache
+C:\itErSem7\project\placement\tatvasoft\intern\backend-final\BookStore.API\BookStore.Models\obj\Debug\net5.0\ref\BookStore.Models.dll

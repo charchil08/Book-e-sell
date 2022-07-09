@@ -1,0 +1,45 @@
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.deps.json
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.runtimeconfig.json
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Release\net5.0\ref\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.pdb
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\ref\BookStore.Models.dll
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.pdb
+D:\Projects\ProspectSoft\ECOM Book\API\New\BookStore\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.deps.json
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.runtimeconfig.json
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Release\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\bin\Release\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.csprojAssemblyReference.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore\BookStore.Models\obj\Release\net5.0\BookStore.Models.genruntimeconfig.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Release\net5.0\BookStore.Models.deps.json
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Release\net5.0\BookStore.Models.runtimeconfig.json
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Release\net5.0\BookStore.Models.runtimeconfig.dev.json
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Release\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Release\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\bin\Release\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.csproj.AssemblyReference.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.AssemblyInfoInputs.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.AssemblyInfo.cs
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.csproj.CoreCompileInputs.cache
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\ref\BookStore.Models.dll
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.pdb
+D:\Projects\6th Sem Training\BookStore.API\BookStore.Models\obj\Release\net5.0\BookStore.Models.genruntimeconfig.cache
